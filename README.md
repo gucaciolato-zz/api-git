@@ -1,5 +1,7 @@
 # API GitHub Repositories List
 
+![Demo](https://github.com/gucaciolato/api-git/blob/main/src/apigitrepos.GIF?raw=true)
+
 ## What I've learned?
 1. API with axios
 2. react-router-dom
