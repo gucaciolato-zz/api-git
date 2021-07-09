@@ -1,0 +1,5 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, #0c1547, #2337a8);
+}
