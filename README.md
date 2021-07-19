@@ -11,9 +11,9 @@
 1. `npx create-react-app (nome)`
 2. `cd (nome)`
 3. `yarn start`
-4. `npm install axios`
-5. `npm install react-router-dom`
-6. `npm install styled-components`
+4. `yarn add axios`
+5. `yarn add react-router-dom`
+6. `yarn add styled-components`
 
 ### `yarn start`
 
